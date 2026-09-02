@@ -81,6 +81,9 @@ title(' Frequency Response of Chebyshev IIR LPF');
 
 
 # OUTPUT: 
+<img width="815" height="922" alt="image" src="https://github.com/user-attachments/assets/69776a52-87af-4c18-b50f-32eaf0aac60a" />
+<img width="762" height="597" alt="image" src="https://github.com/user-attachments/assets/f58a962e-d2d6-49cf-b637-b62b7882b6a5" />
+
 
 
 # RESULT: 
